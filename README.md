@@ -9,3 +9,4 @@
 And it's done. Visit http://localhost/project/index.php. You can use this for your mini project. I have done the frontend 
 for the entire project. For the backend, I took the help of two friends. Feel free to use this.I hope you can figure out the ER 
 diagram for the database on your own. Cheers :) 
+</p>
